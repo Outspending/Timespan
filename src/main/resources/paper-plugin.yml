@@ -1,0 +1,4 @@
+name: Timespan
+version: '${version}'
+main: me.outspending.timespan.Timespan
+api-version: 1.19
